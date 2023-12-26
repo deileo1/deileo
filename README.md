@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-</html>
+<html>
 <script>
 
     const vocabulary = {
@@ -73,3 +70,4 @@
 
 
 </script>
+</html>
